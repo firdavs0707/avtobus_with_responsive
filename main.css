@@ -122,3 +122,33 @@ body {
     margin-left: 13%;
   }
 }
+
+@media only screen and (max-width: 370px) {
+  .big-box {
+    width: 300px;
+    height: 230px;
+    background-color: black;
+    opacity: 0.8;
+    margin-left: 8%;
+  }
+}
+
+@media only screen and (max-width: 340px) {
+  .big-box {
+    width: 300px;
+    height: 230px;
+    background-color: black;
+    opacity: 0.8;
+    margin-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 325px) {
+  .big-box {
+    width: 300px;
+    height: 230px;
+    background-color: black;
+    opacity: 0.8;
+    margin-left: 2%;
+  }
+}
