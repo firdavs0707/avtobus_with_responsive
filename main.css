@@ -2,7 +2,7 @@
   width: 600px;
   height: 230px;
   background-color: black;
-  opacity: 0.58
+  opacity: 0.8;
 }
 
 .box {
@@ -108,6 +108,7 @@ body {
     width: 300px;
     height: 230px;
     background-color: black;
-    opacity: 0.58
+    opacity: 0.8;
+    margin-left: 20%;
   }
 }
