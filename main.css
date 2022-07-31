@@ -20,6 +20,15 @@
   font-size: 40px;
 }
 
+.triangle {
+  width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid black;
+  opacity: 1;
+}
+
 .input1 {
   opacity: 1;
   width: 300px;
